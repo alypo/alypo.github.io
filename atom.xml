@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://alypo.github.io/"/>
-  <updated>2020-06-12T01:29:59.282Z</updated>
+  <updated>2020-06-13T14:06:27.266Z</updated>
   <id>http://alypo.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://alypo.github.io/2020/06/12/test/"/>
-    <id>http://alypo.github.io/2020/06/12/test/</id>
-    <published>2020-06-11T22:27:03.000Z</published>
-    <updated>2020-06-12T01:29:59.282Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Sowili</title>
@@ -265,9 +251,9 @@
     
       <category term="life" scheme="http://alypo.github.io/tags/life/"/>
     
-      <category term="mood" scheme="http://alypo.github.io/tags/mood/"/>
-    
       <category term="feelings" scheme="http://alypo.github.io/tags/feelings/"/>
+    
+      <category term="mood" scheme="http://alypo.github.io/tags/mood/"/>
     
       <category term="animation" scheme="http://alypo.github.io/tags/animation/"/>
     
@@ -353,13 +339,13 @@
     
       <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
     
-      <category term="girls" scheme="http://alypo.github.io/tags/girls/"/>
-    
       <category term="fanart" scheme="http://alypo.github.io/tags/fanart/"/>
     
-      <category term="LGBTQ" scheme="http://alypo.github.io/tags/LGBTQ/"/>
+      <category term="girls" scheme="http://alypo.github.io/tags/girls/"/>
     
       <category term="TV" scheme="http://alypo.github.io/tags/TV/"/>
+    
+      <category term="LGBTQ" scheme="http://alypo.github.io/tags/LGBTQ/"/>
     
   </entry>
   
@@ -411,9 +397,9 @@
     
       <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
     
-      <category term="fanart" scheme="http://alypo.github.io/tags/fanart/"/>
-    
       <category term="TVShows" scheme="http://alypo.github.io/tags/TVShows/"/>
+    
+      <category term="fanart" scheme="http://alypo.github.io/tags/fanart/"/>
     
   </entry>
   
@@ -464,13 +450,13 @@
     
       <category term="simple" scheme="http://alypo.github.io/tags/simple/"/>
     
+      <category term="fanart" scheme="http://alypo.github.io/tags/fanart/"/>
+    
       <category term="pixelart" scheme="http://alypo.github.io/tags/pixelart/"/>
     
       <category term="girls" scheme="http://alypo.github.io/tags/girls/"/>
     
       <category term="TVshow" scheme="http://alypo.github.io/tags/TVshow/"/>
-    
-      <category term="fanart" scheme="http://alypo.github.io/tags/fanart/"/>
     
   </entry>
   
@@ -490,15 +476,15 @@
       <category term="artwork" scheme="http://alypo.github.io/categories/artwork/"/>
     
     
-      <category term="digitalwater" scheme="http://alypo.github.io/tags/digitalwater/"/>
-    
-      <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
-    
       <category term="webcomic" scheme="http://alypo.github.io/tags/webcomic/"/>
     
       <category term="mint" scheme="http://alypo.github.io/tags/mint/"/>
     
       <category term="spirits" scheme="http://alypo.github.io/tags/spirits/"/>
+    
+      <category term="digitalwater" scheme="http://alypo.github.io/tags/digitalwater/"/>
+    
+      <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
     
   </entry>
   
@@ -518,15 +504,15 @@
       <category term="artwork" scheme="http://alypo.github.io/categories/artwork/"/>
     
     
-      <category term="digitalwater" scheme="http://alypo.github.io/tags/digitalwater/"/>
-    
-      <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
-    
       <category term="webcomic" scheme="http://alypo.github.io/tags/webcomic/"/>
     
       <category term="mint" scheme="http://alypo.github.io/tags/mint/"/>
     
       <category term="spirits" scheme="http://alypo.github.io/tags/spirits/"/>
+    
+      <category term="digitalwater" scheme="http://alypo.github.io/tags/digitalwater/"/>
+    
+      <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
     
   </entry>
   
@@ -546,11 +532,11 @@
       <category term="artwork" scheme="http://alypo.github.io/categories/artwork/"/>
     
     
-      <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
-    
       <category term="webcomic" scheme="http://alypo.github.io/tags/webcomic/"/>
     
       <category term="spirits" scheme="http://alypo.github.io/tags/spirits/"/>
+    
+      <category term="Paintstorm" scheme="http://alypo.github.io/tags/Paintstorm/"/>
     
       <category term="cats" scheme="http://alypo.github.io/tags/cats/"/>
     
@@ -577,6 +563,30 @@
       <category term="pixelart" scheme="http://alypo.github.io/tags/pixelart/"/>
     
       <category term="games" scheme="http://alypo.github.io/tags/games/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A simple mail app design</title>
+    <link href="http://alypo.github.io/2019/05/08/A-simple-mail-app-design/"/>
+    <id>http://alypo.github.io/2019/05/08/A-simple-mail-app-design/</id>
+    <published>2019-05-07T21:32:46.000Z</published>
+    <updated>2020-06-12T01:29:59.282Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Here is too many mail applications with overloaded UI. In this simple design I tried to save usability and keep it simple.&lt;br&gt;&lt;img src=&quot;https://mir-cdn.behance.net/v1/rendition/project_modules/1400/f1251a79919483.5cd1f28b8c32b.png&quot; alt=&quot;Mailapp design&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="design" scheme="http://alypo.github.io/categories/design/"/>
+    
+    
+      <category term="design" scheme="http://alypo.github.io/tags/design/"/>
+    
+      <category term="app" scheme="http://alypo.github.io/tags/app/"/>
+    
+      <category term="simple" scheme="http://alypo.github.io/tags/simple/"/>
     
   </entry>
   
